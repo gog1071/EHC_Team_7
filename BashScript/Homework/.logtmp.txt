@@ -1,0 +1,8 @@
+total 28
+-rwxrwxrwx 1 gog1071 gog1071 1277 Feb 19 00:20 cronjob.sh
+-rw-r--r-- 1 gog1071 gog1071    6 Feb 19 00:11 dumam
+-rwxr--r-- 1 gog1071 gog1071 1168 Feb 18 09:02 info.sh
+-rw-r--r-- 1 gog1071 gog1071   47 Feb 19 02:25 result.txt
+-rwxr-xr-x 1 gog1071 gog1071   10 Feb 18 23:24 test.sh
+-rw-r--r-- 1 gog1071 gog1071  846 Feb 19 02:23 there_is_a_base.txt
+-rw-r--r-- 1 gog1071 gog1071  236 Feb 27 06:49 things.txt
